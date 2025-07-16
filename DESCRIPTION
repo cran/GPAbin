@@ -1,6 +1,6 @@
 Package: GPAbin
 Title: Unifying Multiple Biplot Visualisations into a Single Display
-Version: 1.0.6
+Version: 1.1.0
 Authors@R: 
     person("Johané", "Nienkemper-Swanepoel", , "nienkemperj@sun.ac.za", role = c("aut", "cre", "cph"), 
     comment = c(ORCID ="0000-0001-6086-8272"))
@@ -14,9 +14,9 @@ Suggests: testthat, knitr
 Config/Needs/website: rmarkdown
 BugReports: https://github.com/jnienk/GPAbin/issues
 NeedsCompilation: no
-Packaged: 2025-06-12 10:38:53 UTC; nienkemperj
+Packaged: 2025-07-16 06:35:04 UTC; nienkemperj
 Author: Johané Nienkemper-Swanepoel [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0001-6086-8272>)
 Maintainer: Johané Nienkemper-Swanepoel <nienkemperj@sun.ac.za>
 Repository: CRAN
-Date/Publication: 2025-06-14 08:40:02 UTC
+Date/Publication: 2025-07-16 06:50:02 UTC
